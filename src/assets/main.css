@@ -8,6 +8,16 @@
     color: #1D3B6C;
 }
 
+.btn-principal{
+    background-color: #1D3B6C;
+    color: #fff;
+}
+
+.btn-principal:hover{
+    background-color: #1a345f;
+    color: #fff;
+}
+
 #app{
     display: flex;
     flex-direction: column;

@@ -39,7 +39,7 @@
               encontro da gastroenterologia.
             </p>
             <p class="text-center">
-              <button class="btn btn-danger btn-lg fs-5 rounded-4 px-5 py-2" @click="subscribe">
+              <button class="btn btn-principal btn-lg fs-5 rounded-4 px-5 py-2" @click="subscribe">
                 INSCREVA-SE AGORA
               </button>
             </p>
@@ -52,7 +52,7 @@
     <section id="speakers">
       <div class="container py-3 py-lg-5">
         <h1 class="fw-bold text-center text-principal">
-          Participantes
+          Responsável Técnico
         </h1>
         <div class="row">
           <div class="col-lg-9 mx-auto">
@@ -109,6 +109,15 @@
         </div>
 
         <h2 class="fw-bold text-center text-principal">
+          Patrocínio:
+        </h2>
+        <div class="row mb-3">
+          <div class="col-6 col-md-4 col-lg-3 mx-auto">
+            <img :src="unimed" alt="Imagem da UNIMED" class="img-fluid d-block mx-auto">
+          </div>
+        </div>
+
+        <h2 class="fw-bold text-center text-principal">
           Organização:
         </h2>
         <div class="row mb-3">
@@ -134,13 +143,15 @@ import amg from '@/assets/amg.png';
 import sobedmg from '@/assets/sobedmg.png';
 import smc from '@/assets/sociedade_mineira.png';
 import core from '@/assets/core.png';
+//patrocinio
+import unimed from '@/assets/unimedbh.png';
 
 const subscribe = () => {
   window.open('https://gastrominas.com.br/2026/inscricao', '_blank');
 }
 
 const speakers = [
-  { id: 1, name: 'Rodrigo Roda R. da Silva', image: rodrigo },
+  { id: 1, name: 'Dr. Rodrigo Roda R. da Silva', image: rodrigo },
 ];
 
 const realizations = [
