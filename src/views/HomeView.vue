@@ -19,7 +19,7 @@
     <section id="about">
       <div class="container py-3 py-lg-5">
         <h1 class="fw-bold text-center text-principal">
-          17º Workshop Internacional Endosopia Digestiva
+          17º Workshop Internacional Endoscopia Digestiva
         </h1>
         <div class="row">
           <div class="col-lg-9 mx-auto">
@@ -73,7 +73,7 @@
         <div class="row">
           <div class="col-lg-9 mx-auto">
             <p class="fs-5 text-light text-center">
-              pdf da programação ou imagem ou tabela com a programação
+              Programação em breve
             </p>
           </div>
         </div>
