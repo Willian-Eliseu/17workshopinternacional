@@ -1,0 +1,15 @@
+@import 'bootstrap';
+
+.bg-principal{
+    background-color: #1D3B6C;
+}
+
+#app{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+#footer{
+    margin-top: auto;
+}
