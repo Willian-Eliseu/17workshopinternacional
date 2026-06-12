@@ -4,6 +4,10 @@
     background-color: #1D3B6C;
 }
 
+.text-principal{
+    color: #1D3B6C;
+}
+
 #app{
     display: flex;
     flex-direction: column;

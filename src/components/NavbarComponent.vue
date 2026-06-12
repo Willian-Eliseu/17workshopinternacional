@@ -6,7 +6,7 @@
                     <!-- logo -->
                     <!-- <img src="@/assets/logo.png" alt="Logo" height="40" class="d-inline-block align-text-top"> -->
                     <span class="fw-bold text-light">
-                        WORKSHOP INTERNACIONAL
+                        17º WORKSHOP
                     </span>
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
@@ -16,13 +16,16 @@
                 <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
                     <ul class="navbar-nav fw-bold">
                         <li class="nav-item ms-lg-2">
-                            <RouterLink class="nav-link" to="/#sobre">CONVIDADOS</RouterLink>
+                            <RouterLink class="nav-link" to="/#speakers">CONVIDADOS</RouterLink>
                         </li>
                         <li class="nav-item ms-lg-2">
-                            <RouterLink class="nav-link" to="/#participantes">PROGRAMAÇÃO</RouterLink>
+                            <RouterLink class="nav-link" to="/#schedule">PROGRAMAÇÃO</RouterLink>
                         </li>
                         <li class="nav-item ms-lg-2">
-                            <RouterLink class="nav-link" to="/#programacao">REALIZAÇÃO</RouterLink>
+                            <RouterLink class="nav-link" to="/#realization">REALIZAÇÃO</RouterLink>
+                        </li>
+                        <li class="nav-item ms-lg-2">
+                            <a href="https://gastrominas.com.br/2026/inscricao" class="btn btn-danger" target="_blank">INSCREVA-SE AGORA</a>
                         </li>
                     </ul>
                 </div>
