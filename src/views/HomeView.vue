@@ -24,11 +24,19 @@
         <div class="row">
           <div class="col-lg-9 mx-auto">
             <p class="text-center">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam veritatis, in, provident odit animi
-              dolore architecto ab ut, impedit nisi consequatur saepe quasi quis accusamus minima ea rerum. Aliquam,
-              amet. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam voluptatibus tenetur dignissimos
-              eligendi tempore vel, quasi, blanditiis tempora inventore quam, praesentium necessitatibus architecto
-              perspiciatis exercitationem numquam sunt. Inventore, dignissimos sint.
+              O maior evento mineiro da área do Aparelho Digestivo contará com renomados especialistas de Minas Gerais,
+              do Brasil e do exterior.
+              <br>
+              No dia 6 de agosto, durante o Gastrominas 2026, acompanhe uma programação exclusiva de casos ao vivo
+              transmitidos diretamente do Instituto Alfa de Gastroenterologia do HC-UFMG, com a apresentação de técnicas
+              avançadas e discussões conduzidas por referências da especialidade.
+              <br>
+              Serão mais de 15 procedimentos ao vivo, proporcionando uma experiência única de aprendizado e atualização
+              científica.
+              <br>
+              Faça sua inscrição em <a href="https://gastrominas.com.br" target="_blank" rel="noopener noreferrer"
+                class="text-principal fw-semibold">gastrominas.com.br</a> e participe deste grande
+              encontro da gastroenterologia.
             </p>
             <p class="text-center">
               <button class="btn btn-danger btn-lg fs-5 rounded-4 px-5 py-2" @click="subscribe">
